@@ -42,3 +42,57 @@
    * 天猫
    * 拼多多
 
+#### 引用
+
+> 一级引用
+>> 二级引用
+>>> 三级引用
+>>>> 四级引用
+
+
+#### 表格
+
+游戏名|游戏价格|游戏排名
+--|:--:|--:
+PUBG|$20|26
+APEX|$30|8
+LOL|$23|3
+
+
+#### 超链接
+
+[Github官方网址](https://github.com "点击跳转到Github")
+
+### 插入图片
+
+![x.PNG](https://s2.loli.net/2022/07/16/z8SDXjpJkvqrV3O.png)
+
+#### 插入代码片段
+
+···c
+#include <stdio.h>
+int main(void)
+{
+	while(1);
+	return 0;
+}
+···
+
+```python
+importros
+
+```
+
+```bash
+	cd /usr/bin
+	echo “标准输出”
+```
+
+```cpp
+#include <iostream>
+int main()
+{
+	cout<<"c++";
+	return 0;
+}
+```
