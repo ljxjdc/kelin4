@@ -10,12 +10,6 @@ int main(void)
 
 
 
-	printf("xxxxxxxxxx");
-
-
-
-
-
 
 
 
