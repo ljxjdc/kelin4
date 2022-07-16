@@ -69,14 +69,14 @@ LOL|$23|3
 
 #### 插入代码片段
 
-···c
+```c
 #include <stdio.h>
 int main(void)
 {
 	while(1);
 	return 0;
 }
-···
+```
 
 ```python
 importros
